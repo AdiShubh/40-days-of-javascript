@@ -1,6 +1,5 @@
 # Day 41 - MASTERING Date in JavaScript
 
-
 ## 🫶 Support
 
 Your support means a lot.
@@ -17,7 +16,6 @@ I am an independent educator and open-source enthusiast who creates meaningful p
 ## **PART 1: 🎯 Goal of This Lesson**
 
 ## **🎯 Goal of This Lesson**
-
 
 - ✅ The BIG Problem with JavaScript Dates 🛑
 - ✅ Why is Time Handling So Hard? ⏳
@@ -39,12 +37,12 @@ I am an independent educator and open-source enthusiast who creates meaningful p
 - ✅ Handling Daylight Saving Time (DST) Like a Pro ☀️
 - ✅ FINAL RECAP: Key Takeaways for Mastery 🎓
 
+## Videos
 
-## Video
-
-Here is the video for you to go through and learn:
+Here is the PART 1 of the JavaScript Date & Time Series:
 
 [![day-41-p-1](./banner.jpg)](https://youtu.be/EGjiq-JDF3I "Video")
 
-For, Part 2, Check this out: [MASTER JS DATES: The Only Guide You Need ⏰🔥](./intl/README.md)
+### For, Part 2, Check this out: [MASTER JS DATES: The Only Guide You Need ⏰🔥](./intl/README.md)
 
+### For, Part 3, Check this out: [Temporal API: Finally JavaScript Fixed Dates After Three Decades!](./temporal/README.md)
